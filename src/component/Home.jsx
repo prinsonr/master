@@ -15,6 +15,7 @@ export default function Home() {
     <div>
      
       <Header />
+      <h1>Home</h1>
       <Container sx={{ py: 8 }}>
         <Grid container spacing={4} direction="column" >
           <Grid item xs={12}>
